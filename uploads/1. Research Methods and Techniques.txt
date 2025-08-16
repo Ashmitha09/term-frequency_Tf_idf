@@ -1,0 +1,36 @@
+1. Research Methods and Techniques
+[1] Z. Yu, "Research on Crop Pest and Disease Diagnosis Method Based on Improved Faster R-CNN," 2023 5th International Conference on Artificial Intelligence and Computer Applications (ICAICA), Dalian, China, 2023, pp. 46-50, doi: 10.1109/ICAICA58456.2023.10405454.
+
+[2] Z. Saeed, A. Raza, A. H. Qureshi and M. Haroon Yousaf, "A Multi-Crop Disease Detection and Classification Approach using CNN," 2021 International Conference on Robotics and Automation in Industry (ICRAI), Rawalpindi, Pakistan, 2021, pp. 1-6, doi: 10.1109/ICRAI54018.2021.9651409.
+
+[3] B. Gupta, S. Bomble, O. Gaikar, S. Chalekar, S. R. Vispute and K. Rajeswari, "Convolutional Neural Networks for Detection of Crop Diseases and Weed," 2022 6th International Conference On Computing, Communication, Control And Automation (ICCUBEA), Pune, India, 2022, pp. 1-5, doi: 10.1109/ICCUBEA54992.2022.10010772.
+
+[4] S. Mehetre, R. Mangle, P. Karvanje and R. Y. Sarode, "Crop Disease Diagnosis using Convolutional Neural Network," 2023 3rd International Conference on Intelligent Technologies (CONIT), Hubli, India, 2023, pp. 1-7, doi: 10.1109/CONIT59222.2023.10205929.
+
+[5] D. Tandekar and S. Dongre, "Identification of Various Diseases in Plant Leaves Using Image Processing and CNN Approach," 2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT), Delhi, India, 2023, pp. 1-6, doi: 10.1109/ICCCNT56998.2023.10306979.
+
+2. Artificial Intelligence in Agriculture
+[6] H. I. Peyal et al., "Plant Disease Classifier: Detection of Dual-Crop Diseases Using Lightweight 2D CNN Architecture," in IEEE Access, vol. 11, pp. 110627-110643, 2023, doi: 10.1109/ACCESS.2023.3320686.
+
+[7] S. Shilaskar et al., "Artificial Intelligence based Crop Recommendation and Plant Leaf Disease Detection System," 2022 3rd International Conference for Emerging Technology (INCET), Belgaum, India, 2022, pp. 1-6, doi: 10.1109/INCET54531.2022.9824002.
+
+[8] N. Jannat et al., "Efficient Detection of Crop Leaf Diseases: A Lightweight Convolutional Neural Network Approach for Enhanced Agricultural Productivity," 2023 International Conference on Information and Communication Technology for Sustainable Development (ICICT4SD), Dhaka, Bangladesh, 2023, pp. 99-103, doi: 10.1109/ICICT4SD59951.2023.10303536.
+
+3. Machine Learning Applications in Agriculture
+[9] U. Shruthi, V. Nagaveni and B. K. Raghavendra, "A Review on Machine Learning Classification Techniques for Plant Disease Detection," 2019 5th International Conference on Advanced Computing & Communication Systems (ICACCS), Coimbatore, India, 2019, pp. 281-284, doi: 10.1109/ICACCS.2019.8728415.
+
+[10] S. Kashyap, T. Thaware, S. R. Sahu and M. R. K, "Multi-Crop Leaf Disease Detection using Deep Learning Methods," 2022 IEEE 19th India Council International Conference (INDICON), Kochi, India, 2022, pp. 1-6, doi: 10.1109/INDICON56171.2022.10040099.
+
+[11] M. Sardogan, A. Tuncer and Y. Ozen, "Plant Leaf Disease Detection and Classification Based on CNN with LVQ Algorithm," 2018 3rd International Conference on Computer Science and Engineering (UBMK), Sarajevo, Bosnia and Herzegovina, 2018, pp. 382-385, doi: 10.1109/UBMK.2018.8566635.
+
+4. Image Processing Techniques
+[12] S. T. Cynthia, K. M. Shahrukh Hossain, M. N. Hasan, M. Asaduzzaman and A. K. Das, "Automated Detection of Plant Diseases Using Image Processing and Faster R-CNN Algorithm," 2019 International Conference on Sustainable Technologies for Industry 4.0 (STI), Dhaka, Bangladesh, 2019, pp. 1-5, doi: 10.1109/STI47673.2019.9068092.
+
+[13] J.-F. Yeh, S.-Y. Wang and Y.-P. Chen, "Crop Disease Detection by Image Processing Using Modified Alexnet," 2021 IEEE 3rd Eurasia Conference on Biomedical Engineering, Healthcare and Sustainability (ECBIOS), Tainan, Taiwan, 2021, pp. 159-160, doi: 10.1109/ECBIOS51820.2021.9510426.
+
+[14] M. S. Ram, N. K. Priya, M. Sujith, S. S. Basha and J. Prashanth, "A Super Resolution CNN based Model for Crop Disease Detection," 2022 7th International Conference on Communication and Electronics Systems (ICCES), Coimbatore, India, 2022, pp. 1532-1537, doi: 10.1109/ICCES54183.2022.9835998.
+
+5. Deep Learning Algorithms
+[15] S. D. Meena, H. Katragadda, P. Bijin Sanny, K. Dande and J. Sheela, "Using Region-Based Deep Learning Algorithm Mask RCNN Algorithm on Image-Based Plant Disease Detection," 2023 International Conference on Data Science, Agents & Artificial Intelligence (ICDSAAI), Chennai, India, 2023, pp. 1-8, doi: 10.1109/ICDSAAI59313.2023.10452514.
+
+[16] T. T. Showrav, S. Bain, M. Hossain, K. I. Ahmed, S. A. Fattah and S. Ahmed, "A Two-stage Approach for Plant Disease Classification Based on Deep Neural Networks and Transfer Learning," 2022 12th International Conference on Electrical and Computer Engineering (ICECE), Dhaka, Bangladesh, 2022, pp. 469-472, doi: 10.1109/ICECE57408
